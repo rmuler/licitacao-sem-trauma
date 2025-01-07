@@ -1,0 +1,7 @@
+TIPOGRAFIA:
+- Lora (Título e subtítulo)
+
+PALHETA:
+- Vemelho: #E11F26
+- Azul: #0D50B7	
+- Amarelo: #FBC524
