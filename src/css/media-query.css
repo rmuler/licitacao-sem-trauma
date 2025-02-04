@@ -13,7 +13,7 @@
 }
 
 /* Media query para dispositivos com largura máxima de 425px */
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 430px) {
     /* GERAL */
     body {
         padding: 10px;
@@ -77,7 +77,7 @@
     section#container-about p {
         margin: 20px 0;
         text-indent: 15px;
-        text-align: left;
+        text-align: justify;
     }
 
     section#container-about img {
